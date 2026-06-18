@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Vector store (rebuilt from the knowledge base at startup)
+.chroma/
+
+# Environment
+.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
